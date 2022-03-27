@@ -1,0 +1,35 @@
+Name	Level	School Year	Year	Term	Type	Department	Prof-gender	Grade	Fun
+Newtonian Physics	100	Freshman	2018	Fall	"Lecture, Lab"	PHYS	F	A-	3
+The Atlantic World	100	Freshman	2018	Fall	"Lecture, Discussion"	HIST	M	B+	3
+Anti-Heroes	-1	Freshman	2018	Fall	Discussion	ENAM	M	A-	3
+Calculus II	100	Freshman	2018	Fall	Lecture	MATH	F	A-	2
+Privledge and Poverty	1000	Freshman	2019	Winter	Discussion	RELI	M	A	2
+The 20th Century British Novel	200	Freshman	2019	Spring	Lecture	ENAM	M	A-	4
+Early Modern Europe	200	Freshman	2019	Spring	"Lecture, Discussion"	HIST	M	A	5
+"Waves, Fluids, Optics, and Thermodynamics"	100	Freshman	2019	Spring	"Lecture, Lab"	PHYS	F	B+	2
+Intro to Microeconomics	100	Freshman	2019	Spring	Lecture	ECON	F	B+	1
+Russian Literature	200	Sophomore	2019	Fall	Discussion	RUSS	M	A	4
+Intro to Macroeconomics	100	Sophomore	2019	Fall	Lecture	ECON	F	A	3
+European History 1800s	200	Sophomore	2019	Fall	"Lecture, Discussion"	HIST	F	A-	3
+History of Chinese Philosophy	200	Sophomore	2019	Fall	Lecture	HIST	M	A	5
+Reading Literature	100	Sophomore	2020	Winter	Discussion	ENAM	F	A-	4
+Shakespeare's Career	300	Sophomore	2020	Spring	"Lecture, Discussion"	ENAM	M	A	5
+Literature Theory	200	Sophomore	2020	Spring	Lecture	ENAM	M	A-	3
+Religion: Metaphysics and Epistemology	200	Sophomore	2020	Spring	Lecture	PHIL	M	A	1
+Intro to Computing	100	Sophomore	2020	Spring	"Lecture, Lab"	CSCI	M	A-	4
+Data Structures	200	Junior	2020	Fall	"Lecture, Lab"	CSCI	M	A	5
+Math Foundations of Computing	200	Junior	2020	Fall	"Lecture, Groupwork"	CSCI	M	A	5
+Western Monuments	100	Junior	2020	Fall	"Lecture, Discussion"	HARC	M	A	5
+Philosophy of History	400	Junior	2020	Fall	Discussion	HIST	M	A	5
+Computational Physics	200	Junior	2021	Winter	Groupwork	PHYS	M	A	3
+Algorithms and Complexity	300	Junior	2021	Spring	"Lecture, Groupwork"	CSCI	F	A	4
+Computer Architecture	200	Junior	2021	Spring	Lecture	CSCI	M	A-	3
+Linear Algebra	100	Junior	2021	Spring	"Lecture, Groupwork"	MATH	M	A	3
+The Holocaust	200	Junior	2021	Spring	Lecture	HIST	F	A	3
+Senior Seminar	700	Senior	2021	Fall	Discussion	CSCI	M	A	4
+Systems Programming	300	Senior	2021	Fall	Lecture	CSCI	M	A	5
+Theory of Computation	300	Senior	2021	Fall	Lecture	CSCI	F	A	4
+American Pulp Fiction	1000	Senior	2022	Winter	Lecture	AMST	M	A	3
+Geometric Modeling	400	Senior	2022	Spring	Lecture	CSCI	M		
+Advanced Operating Systems	400	Senior	2022	Spring	Lecture	CSCI	M		
+Baroque Art in a Global Context	200	Senior	2022	Spring	Lecture	HARC	F		
